@@ -1,0 +1,84 @@
+{
+    "total_processed": 10,
+    "successful": 10,
+    "failed": 0,
+    "settings": {
+        "source_dir": "subs/",
+        "target_dir": "refs/",
+        "target_file": null,
+        "output_dir": "ok",
+        "alpha": 1.0
+    },
+    "results": [
+        {
+            "source": "subs/1.jpg",
+            "target": "refs/1.jpg",
+            "output": "ok/1_wct_lab_lum_aware.png",
+            "status": "Success",
+            "processing_time": 2.64420485496521
+        },
+        {
+            "source": "subs/10.jpg",
+            "target": "refs/10.jpg",
+            "output": "ok/10_wct_lab_lum_aware.png",
+            "status": "Success",
+            "processing_time": 2.4245381355285645
+        },
+        {
+            "source": "subs/2.jpg",
+            "target": "refs/2.jpg",
+            "output": "ok/2_wct_lab_lum_aware.png",
+            "status": "Success",
+            "processing_time": 2.49118971824646
+        },
+        {
+            "source": "subs/3.jpg",
+            "target": "refs/3.jpg",
+            "output": "ok/3_wct_lab_lum_aware.png",
+            "status": "Success",
+            "processing_time": 2.2564377784729004
+        },
+        {
+            "source": "subs/4.jpg",
+            "target": "refs/4.jpg",
+            "output": "ok/4_wct_lab_lum_aware.png",
+            "status": "Success",
+            "processing_time": 0.2766420841217041
+        },
+        {
+            "source": "subs/5.jpg",
+            "target": "refs/5.jpg",
+            "output": "ok/5_wct_lab_lum_aware.png",
+            "status": "Success",
+            "processing_time": 0.3369560241699219
+        },
+        {
+            "source": "subs/6.jpg",
+            "target": "refs/6.jpg",
+            "output": "ok/6_wct_lab_lum_aware.png",
+            "status": "Success",
+            "processing_time": 0.3119328022003174
+        },
+        {
+            "source": "subs/7.jpg",
+            "target": "refs/7.jpg",
+            "output": "ok/7_wct_lab_lum_aware.png",
+            "status": "Success",
+            "processing_time": 2.0851194858551025
+        },
+        {
+            "source": "subs/8.jpg",
+            "target": "refs/8.jpg",
+            "output": "ok/8_wct_lab_lum_aware.png",
+            "status": "Success",
+            "processing_time": 2.1681134700775146
+        },
+        {
+            "source": "subs/9.jpg",
+            "target": "refs/9.jpg",
+            "output": "ok/9_wct_lab_lum_aware.png",
+            "status": "Success",
+            "processing_time": 2.3134915828704834
+        }
+    ]
+}
